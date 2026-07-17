@@ -11,7 +11,7 @@
 | Nama | Keterangan |
 |---|---|
 | Muhamad Rojaka | 2406027 |
-| Yusrina Fauziyyah | Anggota 2 |
+| Yusrina Fauziyyah | 2406106 |
 
 ### Domain Proyek
 
