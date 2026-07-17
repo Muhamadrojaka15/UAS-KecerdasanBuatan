@@ -8,8 +8,8 @@
 
 | Nama | Keterangan |
 |---|---|
-| Muhamad Rojaka | 2406027 |
-| Yusrina Fauziyyah | 2406106 |
+| Muhamad Rojaka | Anggota 1 |
+| Yusrina Fauziyyah | Anggota 2 |
 
 ## Deskripsi Singkat Proyek
 
@@ -73,7 +73,7 @@ Target:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Muhamadrojaka15/UAS-KecerdasanBuatan.git
+git clone https://github.com/username/UAS-KecerdasanBuatan.git
 cd UAS-KecerdasanBuatan
 ```
 
