@@ -8,8 +8,8 @@
 
 | Nama | Keterangan |
 |---|---|
-| Muhamad Rojaka | Anggota 1 |
-| Yusrina Fauziyyah | Anggota 2 |
+| Muhamad Rojaka | 2406027 |
+| Yusrina Fauziyyah | 2406106 |
 
 ## Deskripsi Singkat Proyek
 
