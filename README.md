@@ -73,7 +73,7 @@ Target:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/UAS-KecerdasanBuatan.git
+git clone https://github.com/Muhamadrojaka15/UAS-KecerdasanBuatan.git
 cd UAS-KecerdasanBuatan
 ```
 
